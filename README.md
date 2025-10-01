@@ -3,8 +3,7 @@
 # Algorithm-Optimisation 🚁♻️
 
 ### Drone-Based Pollution Cleanup Optimisation Project
-
-*COT4400: Analysis of Algorithms — Spring 2025 (University of South Florida)*
+#### COT4400: Analysis of Algorithms — Spring 2025 (University of South Florida)
 
 ---
 
