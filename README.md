@@ -80,8 +80,7 @@ Algorithm-Optimisation/
 │   ├── BruteForce_Greedy_Approach.ipynb   # Implements and analyzes brute force + greedy
 │   ├── DynamicProgramming_Approach.ipynb  # Implements and analyzes DP solution
 │
-├── README.md   # Project documentation
-└── requirements.txt   # Dependencies (optional if needed for Colab/Jupyter)
+└── README.md   # Project documentation
 ```
 
 
